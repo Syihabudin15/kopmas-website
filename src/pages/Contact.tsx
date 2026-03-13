@@ -92,7 +92,7 @@ export default function Contact() {
                 instan.
               </p>
               <a
-                href="https://wa.me/6285722667673"
+                href="https://wa.me/6281313293991"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full bg-white text-sky-600 p-3 rounded-xl font-bold text-sm hover:bg-sky-50 transition"

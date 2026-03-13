@@ -148,7 +148,7 @@ export default function Profile() {
           <div className="flex flex-wrap justify-center gap-4 relative z-10">
             <a
               className="bg-white text-sky-600 px-8 py-3 rounded-full font-bold hover:bg-slate-100 transition"
-              href="https://wa.me/6285722667673"
+              href="https://wa.me/6281313293991"
               target="_blank"
               rel="noopener noreferrer"
             >

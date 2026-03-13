@@ -88,7 +88,7 @@ function App() {
             FAQ
           </a>
           <a
-            href="https://wa.me/6285722667673"
+            href="https://wa.me/6281313293991"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-600 hover:text-slate-900 font-medium transition border border-slate-200 px-4 py-2 rounded-lg hover:bg-green-500 flex gap-1 items-center bg-green-400"

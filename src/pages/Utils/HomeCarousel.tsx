@@ -48,7 +48,7 @@ export default function HomeCarousel() {
                 <img
                   src={slide.image}
                   alt={slide.title}
-                  className={`absolute inset-0 w-full h-full object-cover transition-transform duration-[5000ms] ease-out ${
+                  className={`absolute inset-0 w-full h-full object-cover transition-transform duration-5000 ease-out ${
                     isActive ? "scale-110" : "scale-100"
                   }`}
                 />
