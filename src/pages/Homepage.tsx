@@ -34,7 +34,7 @@ export default function Homepage() {
           <div className="w-20 h-1 bg-sky-600 mx-auto"></div>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-2 gap-8">
           {/* Card Layanan */}
           <div className="p-8 bg-white rounded-2xl border border-slate-100 hover:shadow-lg transition">
             <div className="w-12 h-12 bg-sky-100 text-sky-600 rounded-lg flex items-center justify-center mb-6 text-2xl">
@@ -46,7 +46,7 @@ export default function Homepage() {
               sesuai kebutuhan.
             </p>
           </div>
-          <div className="p-8 bg-white rounded-2xl border border-slate-100 hover:shadow-lg transition">
+          {/* <div className="p-8 bg-white rounded-2xl border border-slate-100 hover:shadow-lg transition">
             <div className="w-12 h-12 bg-sky-100 text-sky-600 rounded-lg flex items-center justify-center mb-6 text-2xl">
               <FaCalculator />
             </div>
@@ -55,7 +55,7 @@ export default function Homepage() {
               Pinjaman khusus UMKM dengan bunga ringan dan tenor maksimal 5
               tahun.
             </p>
-          </div>
+          </div> */}
           <div className="p-8 bg-white rounded-2xl border border-slate-100 hover:shadow-lg transition">
             <div className="w-12 h-12 bg-sky-100 text-sky-600 rounded-lg flex items-center justify-center mb-6 text-2xl">
               <FaCodepen />

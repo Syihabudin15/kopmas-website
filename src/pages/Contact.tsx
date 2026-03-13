@@ -34,7 +34,7 @@ export default function Contact() {
                       Telepon / WA
                     </p>
                     <p className="text-slate-700 font-medium">
-                      +62 857-2266-7673
+                      +62 813-1329-3991
                     </p>
                   </div>
                 </div>

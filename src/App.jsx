@@ -291,7 +291,7 @@ function App() {
                 </li>
                 <li className="flex items-center gap-3">
                   <span className="text-sky-500">📞</span>
-                  <span>+62 857-2266-7673</span>
+                  <span>+62 813-1329-3991</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <span className="text-sky-500">✉️</span>
@@ -303,10 +303,7 @@ function App() {
 
           {/* Garis Pembatas & Copyright */}
           <div className="pt-8 border-t border-slate-800 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-slate-500 uppercase tracking-widest">
-            <p>
-              © {new Date().getFullYear()} KOPJAS Sena Jaya Mandiri. All rights
-              reserved.
-            </p>
+            <p>© 2020 KOPJAS Sena Jaya Mandiri. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-white transition">
                 Privacy Policy
