@@ -15,3 +15,80 @@ body {
   min-width: 320px;
   min-height: 100vh;
 }
+
+:root {
+  --navy: #0f2244;
+  --navy2: #1a3460;
+  --gold: #c9a84c;
+  --gold2: #e8c96a;
+  --gold-light: #fdf6e3;
+  --cream: #faf8f4;
+  --muted: #64748b;
+}
+* {
+  box-sizing: border-box;
+}
+.slide-enter {
+  animation: sldIn 0.55s ease;
+}
+@keyframes sldIn {
+  from {
+    opacity: 0;
+    transform: scale(1.03);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  padding: 0;
+}
+.dot-active {
+  background: var(--gold) !important;
+  width: 24px !important;
+  border-radius: 4px !important;
+}
+.svc-card {
+  transition: all 0.25s;
+}
+.svc-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(15, 34, 68, 0.12);
+}
+.prod-card {
+  transition: all 0.3s;
+}
+.prod-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 24px 48px rgba(15, 34, 68, 0.15);
+}
+.mitra-pill {
+  transition: all 0.2s;
+}
+.mitra-pill:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(15, 34, 68, 0.1);
+}
+.spec-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+.spec-row:last-child {
+  border-bottom: none;
+}
+.nav-a:hover {
+  color: var(--gold2) !important;
+}
+.arrow-btn:hover {
+  background: rgba(255, 255, 255, 0.2) !important;
+}
