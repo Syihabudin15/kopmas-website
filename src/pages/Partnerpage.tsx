@@ -1,5 +1,5 @@
 import { Helmet } from "react-helmet-async";
-import ProductsPage from "../components/Products";
+import PartnersPage from "../components/Partners";
 
 export default function Partnerpage() {
   return (
@@ -33,7 +33,7 @@ export default function Partnerpage() {
 
         <link rel="canonical" href="https://www.kopmas.co.id/mitra" />
       </Helmet>
-      <ProductsPage />
+      <PartnersPage />
     </>
   );
 }
