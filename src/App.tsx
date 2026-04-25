@@ -3,8 +3,8 @@ import Homepage from "./pages/Homepage";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Aboutpage from "./pages/Aboutpage";
-import Productpage from "./pages/ProductPage";
-import Partnerpage from "./pages/PartnerPage";
+import Productpage from "./pages/Productpage";
+import Partnerpage from "./pages/Partnerpage";
 import Contactpage from "./pages/Contactpage";
 
 export default function App() {
