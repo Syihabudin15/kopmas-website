@@ -12,7 +12,7 @@ export default function Contactpage() {
         />
         <meta
           name="keywords"
-          content="kontak Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, kontak kopmas, kontak kop mas, kop mas, hubungi kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan"
+          content="kontak Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, koperasi mas, kontak kopmas, kontak kop mas, kop mas, hubungi kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan, koperasi mahardika, koperasi mahardika artha sejahtera"
         />
 
         <meta property="og:type" content="website" />

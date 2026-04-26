@@ -13,7 +13,7 @@ export default function Productpage() {
         />
         <meta
           name="keywords"
-          content="Produk Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, produk kopmas, produk kop mas,kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan"
+          content="Produk Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, koperasi mas, produk kopmas, produk kop mas,kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan, koperasi mahardika, koperasi mahardika artha sejahtera"
         />
 
         <meta property="og:type" content="website" />

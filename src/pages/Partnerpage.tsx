@@ -12,7 +12,7 @@ export default function Partnerpage() {
         />
         <meta
           name="keywords"
-          content="mitra Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, mitra kopmas, mitra kop mas,kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan"
+          content="mitra Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, koperasi mas, kopmas, mitra kopmas, mitra kop mas,kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan, koperasi mahardika, koperasi mahardika artha sejahtera"
         />
 
         <meta property="og:type" content="website" />

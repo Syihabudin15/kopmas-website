@@ -3,6 +3,7 @@ import AboutsPage from "../components/Abouts";
 import ProductsPage from "../components/Products";
 import PartnersPage from "../components/Partners";
 import ContactsPage from "../components/Contacts";
+import { Helmet } from "react-helmet-async";
 
 export default function Homepage() {
   const [slide, setSlide] = useState(0);
@@ -38,6 +39,42 @@ export default function Homepage() {
 
   return (
     <div>
+      <Helmet>
+        <title>Koperasi Jasa Mahardika Artha Sejahtera | KOP MAS</title>
+        <meta
+          name="description"
+          content="Koperasi Jasa Mahardika Artha Sejahtera (KOP MAS) menyediakan layanan solusi keuangan, investasi, dan konsultasi bisnis profesional untuk masa depan yang lebih mapan."
+        />
+
+        <meta
+          name="keywords"
+          content="Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, kop mas, koperasi mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan, koperasi mahardika, koperasi mahardika artha sejahtera"
+        />
+
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:title"
+          content="Koperasi Jasa Mahardika Artha Sejahtera"
+        />
+        <meta
+          property="og:description"
+          content="Wujudkan masa depan finansial Anda bersama layanan profesional dari Koperasi Jasa Mahardika Artha Sejahtera (KOP MAS)"
+        />
+        <meta property="og:image" content="/android-chrome-512x512.png" />
+        <meta property="og:url" content="https://www.kopmas.co.id" />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta
+          name="twitter:title"
+          content="Koperasi Jasa Mahardika Artha Sejahtera"
+        />
+        <meta
+          name="twitter:description"
+          content="Solusi keuangan dan investasi profesional."
+        />
+
+        <link rel="canonical" href="https://www.kopmas.co.id" />
+      </Helmet>
       <section
         id="beranda"
         title="Beranda"

@@ -12,7 +12,7 @@ export default function Aboutpage() {
         />
         <meta
           name="keywords"
-          content="Tentang Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, tentang kopmas, tentang kop mas,kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan"
+          content="Tentang Koperasi Jasa Mahardika Artha Sejahtera, Mahardika Artha Sejahtera, kopmas, tentang kopmas, koperasi mas, tentang kop mas,kop mas, solusi keuangan, investasi aman, konsultasi bisnis, manajemen aset, koperasi pensiun, koperasi depok, koperasi di sawangan, koperasi mahardika, koperasi mahardika artha sejahtera"
         />
 
         <meta property="og:type" content="website" />

@@ -15,6 +15,7 @@ export default function Header() {
   }, []);
 
   const navItems = [
+    { label: "Beranda", value: "/" },
     { label: "Tentang Kami", value: "/tentang" },
     { label: "Produk & Layanan", value: "/produk" },
     { label: "Mitra", value: "/mitra" },
